@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392445385317",
+    "project_id": "mindboost-3d9e1",
+    "storage_bucket": "mindboost-3d9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392445385317:android:130bc8323c0aa9b6bbc48c",
+        "android_client_info": {
+          "package_name": "com.example.mind_boost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392445385317-sa3chlqur3de7be6oscdn6fk1kib3gp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2qHgSHgHN94Z4n-AzveY7WGIr2aErug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392445385317-sa3chlqur3de7be6oscdn6fk1kib3gp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
